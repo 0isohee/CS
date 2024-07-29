@@ -1,6 +1,6 @@
 # OS (운영체제)
 
-### [01. OS](github.com/<0isohee>/<CS>/blob/<OS>/README.md?plain=1#L10)
+### [01. OS](github.com/0isohee/CS/OS/blob/main/README.md?plain=1#L10)
 ### [02. 프로세스와 스레드](github.com/<organization>/<repository>/blob/<CS>/<OS>/README.md?plain=1#L5)
 ### [03. 스케줄링](github.com/<organization>/<repository>/blob/<CS>/<OS>/README.md?plain=1#L5)
 ### [04. 메모리](github.com/<organization>/<repository>/blob/<CS>/<OS>/README.md?plain=1#L5)

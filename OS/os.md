@@ -14,7 +14,7 @@
 * CPU (중앙 처리 장치) 는 컴퓨터에서 연산을 처리하는 역할을 하며 다른 말로 프로세서라고도 함
 * 메모리는 두 가지 종류가 있음
 * 메모리 계층 구조 - (레지스터, 캐시 메모리는 CPU 내부에 위치!)
-![image](https://github.com/user-attachments/assets/50141118-548a-4c6b-967f-ece381040171)
+<image width="600" src="https://github.com/user-attachments/assets/50141118-548a-4c6b-967f-ece381040171">
 
 1) 주 기억장치
 - 휘발성 메모리
@@ -24,7 +24,7 @@
 - SSD, HardDisk
 
 ### 01-3. 커널 & 시스템 콜
-![image](https://github.com/user-attachments/assets/f18bb6e4-df45-43d1-bf9a-a7a2883a409d)
+<image width="600" src="https://github.com/user-attachments/assets/f18bb6e4-df45-43d1-bf9a-a7a2883a409d"> <br/>
 커널은 HW, 프로세스의 보안, 자원 관리, HW 추상화 같은 역할을 하며, 
 자원 관리를 위해 CPU 스케줄링, 메모리 관리, 입출력 관리, 파일 시스템 관리 등의 역할을 한다. <br/>
 

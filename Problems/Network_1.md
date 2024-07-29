@@ -32,8 +32,6 @@ D. 물리적 매체를 통해 비트 전송<br/>
 E. 네트워크 서비스 접근<br/>
 <br/>
 
-### [정답지 확인](https://github.com/0isohee/CS/blob/main/Problems/Ans/Network_1_ans.md)
-
 5.	데이터 링크 계층 (Data Link Layer)에서 주로 다루는 주소 유형은 무엇입니까?<br/>
 A. IP 주소<br/>
 B. MAC 주소<br/>
@@ -80,3 +78,5 @@ C. 네트워크 계층<br/>
 D. 전송 계층<br/>
 E. 애플리케이션 계층<br/>
 <br/>
+
+### [정답지 확인](https://github.com/0isohee/CS/blob/main/Problems/Ans/Network_1_ans.md)

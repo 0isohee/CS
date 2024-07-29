@@ -79,3 +79,5 @@
 ④	사용 횟수를 증가시킨다.<br/>
 ⑤	해당 페이지를 가장 먼저 메모리에 올린다.<br/>
 <br/>
+
+### [정답지 확인](https://github.com/0isohee/CS/blob/main/Problems/Ans/Paging_1_ans.md)
